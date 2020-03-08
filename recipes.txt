@@ -5,3 +5,4 @@ Welcome to Abhishek coding world
  
 python 
 hadoop
+Sql
