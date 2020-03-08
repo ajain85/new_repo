@@ -6,5 +6,8 @@ Welcome to Abhishek coding world
 python 
 hadoop
 Sql
+Beans
+pizza
+paratha
 
 Thank you
